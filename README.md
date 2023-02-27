@@ -30,7 +30,7 @@ Vercel will automatically deploy new prod packages for each new commit.
 
 ## To thank me with a small SOL tip :]
 
-`58SevvhmaN4SfCop2HkepAWyM5zykr7Afiv91PAAfPqR`
+`BN9w2nd7ebw2HH57BfhsYS86vJCjFCRyhauzdhajeQnE`
 
 ## Getting Set Up
 
